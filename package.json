@@ -10,14 +10,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "grunt": "^1.6.1"
-  },
   "devDependencies": {
+    "grunt": "^1.6.1",
     "grunt-contrib-cssmin": "^5.0.0",
     "grunt-contrib-uglify": "^5.2.2",
-    "gulp": "^4.0.2",
+    "grunt-replace": "^2.0.2",
+    "grunt-text-replace": "^0.4.0",
+    "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
-    "gulp-imagemin": "^9.0.0"
+    "gulp-imagemin": "^4.1.0"
   }
 }
